@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.quotes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
